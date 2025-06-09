@@ -1,38 +1,44 @@
-# Fake Login Page – Phishing Awareness Demo
+# Demo UI Login – Educational Mockup Interface
 
-This is a **simulated login page** designed for **educational purposes**, specifically to raise awareness about phishing attacks and information security.
+This is a **mock login interface** created for **educational and UI/UX demonstration purposes**. It does **not collect**, **process**, or **store** any user data. It is intentionally designed to **resemble a common login layout** to help raise awareness about design patterns and digital trust.
 
-> ⚠️ **Important:** This project is strictly intended for ethical use in training environments. Do not use it for malicious or deceptive purposes.
+> ⚠️ **Disclaimer:** This is a static mockup. It is not affiliated with any real company or service, and it is not intended to impersonate or deceive. For educational use only.
 
-## 🧠 Purpose
+## 🎯 Purpose
 
-The goal of this fake login page is to:
-- Demonstrate how convincing a phishing page can look
-- Encourage users to think critically before entering sensitive information
-- Highlight the importance of verifying the authenticity of a website
+This demo is meant to:
+- Showcase how realistic a simple login form can appear
+- Support discussions on UI/UX, digital trust, and authentication patterns
+- Provide a safe visual example for cybersecurity awareness sessions
 
 ## 📄 What's Included
 
-- A **single HTML file** with embedded CSS and JavaScript
-- Dynamic warning messages about data sensitivity
-- No actual login or backend: inputs are not processed or stored
+- A standalone `index.html` file with embedded styles and minimal JavaScript
+- A clearly marked UI-only demo with no backend
+- Disclaimers both in code and in the visible UI
 
-## 🌐 How to Use
+## 🚀 How to Use
 
-1. Open `index.html` in any modern web browser.
-2. Observe how users interact with the page and use it as a discussion point for security awareness.
+1. Clone or download the repository.
+2. Open `index.html` in any modern browser.
+3. Use it in design showcases, awareness workshops, or as a safe teaching tool.
 
-## 🛡️ Ethical Use Only
+## 🛡️ Responsible Use
 
 This project is intended for:
+- **UI/UX design practice**
 - **Cybersecurity awareness training**
-- **Demonstrations in classrooms or workshops**
-- **Internal company testing and education**
+- **Educational workshops or presentations**
 
-Do **not** deploy or distribute this page in a real-world context where it could deceive users outside of a training context.
+Do **not** use this mock interface in any way that could mislead real users. Do **not** deploy it publicly without visible disclaimers.
 
-## 📢 Disclaimer
+## 📢 Legal & Ethical Notice
 
-The authors are not responsible for any misuse of this project. Always ensure your activities are aligned with local laws and organizational policies.
+This project does not collect credentials or transmit any data. It is for **demonstration purposes only**. The authors are not responsible for misuse. Always follow local laws and ethical guidelines when using or sharing this demo.
+
+---
+
+**✅ Suggestion:** For safety, always include a visible banner or note _within the UI_ itself stating:  
+> “This is a demo interface for educational purposes only – do not enter real credentials.”
 
 ---
