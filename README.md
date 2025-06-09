@@ -15,13 +15,11 @@ This demo is meant to:
 
 - A standalone `index.html` file with embedded styles and minimal JavaScript
 - A clearly marked UI-only demo with no backend
-- Disclaimers both in code and in the visible UI
 
 ## 🚀 How to Use
 
-1. Clone or download the repository.
-2. Open `index.html` in any modern browser.
-3. Use it in design showcases, awareness workshops, or as a safe teaching tool.
+1. Open `index.html` in any modern browser.
+2. Use it in design showcases, awareness workshops, or as a safe teaching tool.
 
 ## 🛡️ Responsible Use
 
@@ -35,10 +33,3 @@ Do **not** use this mock interface in any way that could mislead real users. Do 
 ## 📢 Legal & Ethical Notice
 
 This project does not collect credentials or transmit any data. It is for **demonstration purposes only**. The authors are not responsible for misuse. Always follow local laws and ethical guidelines when using or sharing this demo.
-
----
-
-**✅ Suggestion:** For safety, always include a visible banner or note _within the UI_ itself stating:  
-> “This is a demo interface for educational purposes only – do not enter real credentials.”
-
----
